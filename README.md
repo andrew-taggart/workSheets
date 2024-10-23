@@ -2,4 +2,4 @@
 
 ## Discrete Mathmatics Practice 
 
-### TO DOAdd FrontEnd pass through Django to visualize and expand functionality
+### TO DO Add FrontEnd pass through Django to visualize and expand functionality
